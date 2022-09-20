@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint:html": "linthtml src/**/*.html",
     "lint:scss": "stylelint **/*.scss",
     "lint:js": "eslint ./src",
